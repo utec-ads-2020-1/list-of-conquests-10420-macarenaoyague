@@ -13,23 +13,19 @@ int main() {
 
 void UVa10420(){
 
-    int nLines;
-    cin>>nLines;
-    map <string, int> countries;
     string line, country;
+    getline(cin, line);
+    int nLines = stoi(line);
+    map <string, int> countries;
 
     for (int i = 0; i<nLines; i++)
     {
         getline(cin, line);
         stringstream l (line);
         getline(l, country, ' ');
-        while (getline(l, line, ' '))
-            countries[country]++;
+        countries[country]++;
     }
 
     for (auto element: countries)
         cout <<element.first<<" "<<element.second<<endl;
 }
-
-
-
