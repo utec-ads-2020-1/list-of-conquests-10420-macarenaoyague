@@ -1,0 +1,3 @@
+/Users/macarena/Documents/ALGORITMOS/Semana 1/list-of-conquests-10420-macarenaoyague/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/macarena/Documents/ALGORITMOS/Semana 1/list-of-conquests-10420-macarenaoyague/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/macarena/Documents/ALGORITMOS/Semana 1/list-of-conquests-10420-macarenaoyague/cmake-build-debug/CMakeFiles/list_of_conquests_10420_macarenaoyague.dir

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/macarena/Documents/ALGORITMOS/Semana 1/list-of-conquests-10420-macarenaoyague/main.cpp
+iostream
+-
+map
+-
+sstream
+-
+
